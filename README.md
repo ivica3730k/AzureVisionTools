@@ -1,4 +1,4 @@
-#Azure computer vision api-s interfaced through python via requests module
+# Azure computer vision api-s interfaced through python via requests module
 
 ## How to use
 Load in your azure computer vision credentials using load_credentials() function
