@@ -1,9 +1,9 @@
 # Azure computer vision api-s interfaced through python via requests module
 
 ## How to use
-Load in your azure computer vision credentials using load_credentials() function
-and pass in images either from cv2 style numpy array or from filepath using any
-available function
+- Install requirements from requirements.txt file
+- Load in your azure computer vision credentials using load_credentials() function
+and pass in images either from cv2 style numpy array or filepath.
 
 See example.py
 
